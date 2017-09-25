@@ -1,7 +1,7 @@
 # AntiFor
 An anti-forensic multitool written in bash
 
-Dependencies
+# Dependencies
 - bleachbit
 - mat (Metadata Anonymization Toolkit)
 - exiftool
@@ -11,5 +11,5 @@ Dependencies
 I did not list usbkill as a dependency as I have all the files included.
 Credits for USBKill go to https://github.com/hephaest0s/usbkill
 
-Usage
+# Usage
 sudo bash anti.sh
